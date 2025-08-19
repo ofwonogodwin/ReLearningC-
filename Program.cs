@@ -5,7 +5,7 @@ string firstFriend = "Ojara";
 string secondFriend = "Kevin";
 int age = 22;
 int ages = 20;
-float w1 = 60.5f;
+double w1 = 60.5;
 float w2 = 65.2f;
 
 Console.WriteLine($"My friends are {firstFriend.ToUpper()} and {secondFriend}");
