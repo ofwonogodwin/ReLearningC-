@@ -12,3 +12,4 @@
 /home/godwin-ofwono/Desktop/LearningC_Sharp/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.pdb
 /home/godwin-ofwono/Desktop/LearningC_Sharp/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.genruntimeconfig.cache
 /home/godwin-ofwono/Desktop/LearningC_Sharp/HelloWorldApp/obj/Debug/net9.0/ref/HelloWorldApp.dll
+/home/godwin-ofwono/Desktop/LearningC_Sharp/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.sourcelink.json
